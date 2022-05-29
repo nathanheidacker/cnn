@@ -1,4 +1,4 @@
 /data/*
-!/data/once.py
+!/data/*.py
 .*
 !.gitignore
